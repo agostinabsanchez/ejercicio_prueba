@@ -44,7 +44,7 @@ import os
 #Genero listas/ matrices con las que voy a trabajar
 coches_por_linea = [["A01","A02","A03","A04","A05","B01","B02","B03","B04","B05","C01","C02","C03","C04","C05"],
                     ["A","A","A","A","A","B","B","B","B","B","C","C","C","C","C"],
-                    [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]
+                    [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1]]
 
 lineas = ["A","B","C"]
 legajos = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] #RANDOMIZAR!!!
